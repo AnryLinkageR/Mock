@@ -4,7 +4,7 @@ using Newtonsoft.Json;
 using UnityEditor;
 using UnityEngine;
 
-namespace Murka.Mock
+namespace com.Mock
 {
     [Serializable]
     public class MockSO : ScriptableObject
