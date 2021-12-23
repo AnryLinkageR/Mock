@@ -40,17 +40,5 @@ namespace Murka.Mock
     {
         public string ID;
         public string Value;
-        public DefaultAsset Class;
-        public MockSOEnum ValueType;
-    }
-
-    public enum MockSOEnum
-    {
-        Float,
-        Int,
-        Long,
-        Double,
-        String,
-        Class
     }
 }
