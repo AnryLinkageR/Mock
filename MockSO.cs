@@ -41,4 +41,10 @@ namespace com.Mock
         public string ID;
         public string Value;
     }
+    /*
+    [MenuItem("Assets/Create/Mock")]
+        public static void CreateMock()
+        {
+            ScriptableObjectUtility.CreateAsset<MockSO>();
+        }  */
 }
